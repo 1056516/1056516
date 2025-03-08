@@ -1,77 +1,53 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f5f5f5;
-            border-radius: 5px;
-        }
-        h1 {
-            color: #61dafb;
-        }
-        h2 {
-            color: #333;
-        }
-        #profile-image {
-            border-radius: 50%;
-            width: 150px;
-            height: 150px;
-            display: block;
-            margin: 0 auto;
-        }
-        .gif-container {
-            text-align: center;
-            margin: 20px 0;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-        }
-        footer {
-            text-align: center;
-            font-size: 0.8em;
-            color: #777;
-        }
-    </style>
-</head>
-<body>
+# Hello, I'm [Your Name]!
 
-    <h1>Hello, I'm [Your Name]!</h1>
-    <img id="profile-image" src="https://via.placeholder.com/150" alt="Profile Image">
-    
-    <h2>About Me</h2>
-    <p>I am a passionate developer who loves coding and creating new projects. Welcome to my GitHub profile!</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)](https://github.com/yourusername)
 
-    <h2>My Projects</h2>
-    <ul>
-        <li><a href="https://github.com/project1" target="_blank">Project 1</a></li>
-        <li><a href="https://github.com/project2" target="_blank">Project 2</a></li>
-        <li><a href="https://github.com/project3" target="_blank">Project 3</a></li>
-    </ul>
+## 👋 About Me
 
-    <h2>My Favorite GIF</h2>
-    <div class="gif-container">
-        <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Funny GIF">
-    </div>
+- 🌱 I’m currently learning: [Your Current Learning Topic]
+- 💻 My favorite programming languages: [Language 1], [Language 2], [Language 3]
+- 🚀 I’m passionate about: [e.g., web development, data science, AI, etc.]
+- 🔍 I’m looking for collaboration opportunities on: [topics or projects]
 
-    <h2>Connect with Me</h2>
-    <p>You can find me on:</p>
-    <ul>
-        <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
-        <li><a href="https://twitter.com/yourusername" target="_blank">Twitter</a></li>
-        <li><a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a></li>
-    </ul>
+## 💼 Skills
 
-    <footer>
-        <p>Thank you for visiting my profile!</p>
-    </footer>
+| Language / Technology | Proficiency |
+|-----------------------|-------------|
+| Python                | ![Python](https://img.shields.io/badge/-Python-3572B0?style=flat-square&logo=Python&logoColor=white) |
+| JavaScript            | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
+| HTML/CSS              | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) |
+| [Others]             | [Proficiency Image or Badge] |
 
-</body>
-</html>
+## 📈 GitHub Stats
+
+![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌟 Projects
+
+Here are a few of my favorite projects:
+
+- [Project 1](https://github.com/yourusername/project1): Brief description of project 1.
+- [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
+- [Project 3](https://github.com/yourusername/project3): Brief description of project 3.
+
+## 📫 How to reach me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin/)
+- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+
+## 🙌 Support Me
+
+If you like my work or want to support me, please star my repositories or share them with your friends!
+
+<!-- You can also add any other sections that you think will benefit your profile. For example: -->
+
+## ✨ Fun Facts
+
+- I love [hobby/interest].
+- My favorite book is [Your Favorite Book].
+- I enjoy helping others learn to code.
+
+---
+
+Thank you for visiting my profile! 🌟
