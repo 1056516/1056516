@@ -4,10 +4,10 @@
 
 ## 👋 About Me
 
-- 🌱 I’m currently learning: [Your Current Learning Topic]
-- 💻 My favorite programming languages: [Language 1], [Language 2], [Language 3]
-- 🚀 I’m passionate about: [e.g., web development, data science, AI, etc.]
-- 🔍 I’m looking for collaboration opportunities on: [topics or projects]
+- 🌱 I’m currently learning: Html, js
+- 💻 My favorite programming languages: HTML, CSS
+- 🚀 I’m passionate about: website building
+- 🔍 I’m looking for collaboration opportunities on: Vortex
 
 ## 💼 Skills
 
@@ -20,33 +20,21 @@
 
 ## 📈 GitHub Stats
 
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![1056516](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌟 Projects
 
 Here are a few of my favorite projects:
 
-- [Project 1](https://github.com/yourusername/project1): Brief description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
-- [Project 3](https://github.com/yourusername/project3): Brief description of project 3.
+- [ORBIT](https://playervpn.github.io): A welcoming games site open for all!
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- Email: [dylanerspamer21@gmail.com](dylanerspamer21@gmail.com)
 
 ## 🙌 Support Me
 
 If you like my work or want to support me, please star my repositories or share them with your friends!
-
-<!-- You can also add any other sections that you think will benefit your profile. For example: -->
-
-## ✨ Fun Facts
-
-- I love [hobby/interest].
-- My favorite book is [Your Favorite Book].
-- I enjoy helping others learn to code.
 
 ---
 
